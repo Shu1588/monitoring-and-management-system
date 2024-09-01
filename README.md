@@ -1,0 +1,2 @@
+# monitoring-and-management-system
+基于cortex-A9的监控管理系统：实现了客户端登录Boa服务端对仓库环境信息的掌握和管理。客户端主要由网页提供人机交互支持，服务端主要由Boa提供数据交互，网页后台由CGI处理
